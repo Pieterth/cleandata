@@ -1,9 +1,9 @@
 # Assignment cleaning data
 # 12 June 2016, Pieter ten Have
 
-
-setwd("C:/Users/Pieter/r-coursera3")
 rm(list=ls())
+setwd("C:/python27")
+
 
 # List of features is used to name the variables and select those which contain strings "mean" or "std()"
 
